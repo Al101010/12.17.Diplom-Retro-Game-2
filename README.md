@@ -1,6 +1,9 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/lwlr8aevegnpel9h?svg=true)](https://ci.appveyor.com/project/Al101010/12-17-diplom-retro-game-2)
 
 
+![CI](https://github.com/Al101010/12-17-diplom-retro-game-2/actions/workflows/web.yml/badge.svg)
+
+
 # Дипломное задание к курсу «Продвинутый JavaScript». Retro Game
 
 ###### tags: `netology` `advanced js`
